@@ -1,0 +1,15 @@
+/Users/annatsherkavska/Projects/testing/testing/bin/Debug/net7.0/testing
+/Users/annatsherkavska/Projects/testing/testing/bin/Debug/net7.0/testing.deps.json
+/Users/annatsherkavska/Projects/testing/testing/bin/Debug/net7.0/testing.runtimeconfig.json
+/Users/annatsherkavska/Projects/testing/testing/bin/Debug/net7.0/testing.dll
+/Users/annatsherkavska/Projects/testing/testing/bin/Debug/net7.0/testing.pdb
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.csproj.AssemblyReference.cache
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.AssemblyInfoInputs.cache
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.AssemblyInfo.cs
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.csproj.CoreCompileInputs.cache
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.dll
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/refint/testing.dll
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.pdb
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/testing.genruntimeconfig.cache
+/Users/annatsherkavska/Projects/testing/testing/obj/Debug/net7.0/ref/testing.dll

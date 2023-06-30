@@ -1,0 +1,109 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "TCPData/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TCPData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPData.dll": {}
+        }
+      },
+      "TCPExrentions/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.1",
+        "compile": {
+          "bin/placeholder/TCPExrentions.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/TCPExrentions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPData/1.0.0": {
+      "type": "project",
+      "path": "../TCPData/TCPData.csproj",
+      "msbuildProject": "../TCPData/TCPData.csproj"
+    },
+    "TCPExrentions/1.0.0": {
+      "type": "project",
+      "path": "../TCPExrentions/TCPExrentions.csproj",
+      "msbuildProject": "../TCPExrentions/TCPExrentions.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "TCPData >= 1.0.0",
+      "TCPExrentions >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/annatsherkavska/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/annatsherkavska/Projects/testing/testing/ThePretendCompany.csproj",
+      "projectName": "ThePretendCompany",
+      "projectPath": "/Users/annatsherkavska/Projects/testing/testing/ThePretendCompany.csproj",
+      "packagesPath": "/Users/annatsherkavska/.nuget/packages/",
+      "outputPath": "/Users/annatsherkavska/Projects/testing/testing/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/annatsherkavska/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "/usr/local/share/dotnet/library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj": {
+              "projectPath": "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj"
+            },
+            "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj": {
+              "projectPath": "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.304/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

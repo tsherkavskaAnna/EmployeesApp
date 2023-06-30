@@ -1,0 +1,15 @@
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/bin/Debug/net7.0/LINQExapmles_1
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/bin/Debug/net7.0/LINQExapmles_1.deps.json
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/bin/Debug/net7.0/LINQExapmles_1.runtimeconfig.json
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/bin/Debug/net7.0/LINQExapmles_1.dll
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/bin/Debug/net7.0/LINQExapmles_1.pdb
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.csproj.AssemblyReference.cache
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.AssemblyInfoInputs.cache
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.AssemblyInfo.cs
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.csproj.CoreCompileInputs.cache
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.dll
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/refint/LINQExapmles_1.dll
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.pdb
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/LINQExapmles_1.genruntimeconfig.cache
+/Users/annatsherkavska/Projects/LINQExapmles_1/LINQExapmles_1/obj/Debug/net7.0/ref/LINQExapmles_1.dll

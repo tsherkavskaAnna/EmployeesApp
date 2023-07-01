@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/LINQExapmles_1/LINQExapmles_1/LINQExapmles_1.csproj": {}
+    "/Users/annatsherkavska/Projects/LINQUExamples_2/LINQUExamples_2/LINQUExamples_2.csproj": {}
   },
   "projects": {
-    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/LINQExapmles_1/LINQExapmles_1/LINQExapmles_1.csproj": {
+    "/Users/annatsherkavska/Projects/LINQUExamples_2/LINQUExamples_2/LINQUExamples_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/LINQExapmles_1/LINQExapmles_1/LINQExapmles_1.csproj",
-        "projectName": "LINQExapmles_1",
-        "projectPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/LINQExapmles_1/LINQExapmles_1/LINQExapmles_1.csproj",
+        "projectUniqueName": "/Users/annatsherkavska/Projects/LINQUExamples_2/LINQUExamples_2/LINQUExamples_2.csproj",
+        "projectName": "LINQUExamples_2",
+        "projectPath": "/Users/annatsherkavska/Projects/LINQUExamples_2/LINQUExamples_2/LINQUExamples_2.csproj",
         "packagesPath": "/Users/annatsherkavska/.nuget/packages/",
-        "outputPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/LINQExapmles_1/LINQExapmles_1/obj/",
+        "outputPath": "/Users/annatsherkavska/Projects/LINQUExamples_2/LINQUExamples_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/annatsherkavska/.nuget/NuGet/NuGet.Config"

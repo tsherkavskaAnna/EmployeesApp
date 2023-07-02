@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj": {}
+    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/TCPExrentions.csproj": {}
   },
   "projects": {
-    "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj": {
+    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/TCPExrentions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj",
+        "projectUniqueName": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/TCPExrentions.csproj",
         "projectName": "TCPExrentions",
-        "projectPath": "/Users/annatsherkavska/Projects/testing/TCPExrentions/TCPExrentions.csproj",
+        "projectPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/TCPExrentions.csproj",
         "packagesPath": "/Users/annatsherkavska/.nuget/packages/",
-        "outputPath": "/Users/annatsherkavska/Projects/testing/TCPExrentions/obj/",
+        "outputPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/annatsherkavska/.nuget/NuGet/NuGet.Config"

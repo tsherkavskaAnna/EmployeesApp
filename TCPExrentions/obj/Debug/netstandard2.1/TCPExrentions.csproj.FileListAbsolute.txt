@@ -8,13 +8,3 @@
 /Users/annatsherkavska/Projects/testing/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.csproj.CoreCompileInputs.cache
 /Users/annatsherkavska/Projects/testing/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.dll
 /Users/annatsherkavska/Projects/testing/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.pdb
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/bin/Debug/netstandard2.1/TCPExrentions.deps.json
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/bin/Debug/netstandard2.1/TCPExrentions.dll
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/bin/Debug/netstandard2.1/TCPExrentions.pdb
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.csproj.AssemblyReference.cache
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.GeneratedMSBuildEditorConfig.editorconfig
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.AssemblyInfoInputs.cache
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.AssemblyInfo.cs
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.csproj.CoreCompileInputs.cache
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.dll
-/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPExrentions/obj/Debug/netstandard2.1/TCPExrentions.pdb

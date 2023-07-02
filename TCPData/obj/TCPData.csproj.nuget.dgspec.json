@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/TCPData.csproj": {}
+    "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj": {}
   },
   "projects": {
-    "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/TCPData.csproj": {
+    "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/TCPData.csproj",
+        "projectUniqueName": "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj",
         "projectName": "TCPData",
-        "projectPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/TCPData.csproj",
+        "projectPath": "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj",
         "packagesPath": "/Users/annatsherkavska/.nuget/packages/",
-        "outputPath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/",
+        "outputPath": "/Users/annatsherkavska/Projects/testing/TCPData/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/annatsherkavska/.nuget/NuGet/NuGet.Config"

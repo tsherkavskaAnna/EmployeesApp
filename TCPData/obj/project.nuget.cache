@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dXaCV53H3GwvoBubmAVqY/WPTHH3MhrxGkQsz7BAE7BL5C48g1QfG0RSAwNpU9FFWp/d1A9g8ugecx6SfuRMng==",
+  "dgSpecHash": "yheOOGFvq5FbfT6JRU3a7v9A+KRt1bL9ks1MphZicGxSRlOlT+D5yMgt/1ViXtOTtDhyImosI1M3Kizr1vAD3Q==",
   "success": true,
-  "projectFilePath": "/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/TCPData.csproj",
+  "projectFilePath": "/Users/annatsherkavska/Projects/testing/TCPData/TCPData.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

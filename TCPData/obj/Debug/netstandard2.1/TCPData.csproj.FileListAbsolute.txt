@@ -8,3 +8,13 @@
 /Users/annatsherkavska/Projects/testing/TCPData/obj/Debug/netstandard2.1/TCPData.csproj.CoreCompileInputs.cache
 /Users/annatsherkavska/Projects/testing/TCPData/obj/Debug/netstandard2.1/TCPData.dll
 /Users/annatsherkavska/Projects/testing/TCPData/obj/Debug/netstandard2.1/TCPData.pdb
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/bin/Debug/netstandard2.1/TCPData.deps.json
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/bin/Debug/netstandard2.1/TCPData.dll
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/bin/Debug/netstandard2.1/TCPData.pdb
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.csproj.AssemblyReference.cache
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.GeneratedMSBuildEditorConfig.editorconfig
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.AssemblyInfoInputs.cache
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.AssemblyInfo.cs
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.csproj.CoreCompileInputs.cache
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.dll
+/Users/annatsherkavska/Documents/GitHub/EmployeesApp/TCPData/obj/Debug/netstandard2.1/TCPData.pdb

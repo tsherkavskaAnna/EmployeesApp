@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{93885145-E734-431D-872F-249079A949BD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="LINQUExamples_2/Program.cs">
     <Files>
-      <File FileName="LINQUExamples_2/Program.cs" Line="220" Column="33" />
+      <File FileName="LINQUExamples_2/Program.cs" Line="202" Column="67" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="LINQUExamples_2" expanded="True">
-            <Node name="LINQUExamples_2" expanded="True">
+          <Node name="LINQUExamples_2">
+            <Node name="LINQUExamples_2">
               <Node name="Program.cs" selected="True" />
             </Node>
           </Node>
@@ -15,9 +15,9 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.LINQUExamples__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />

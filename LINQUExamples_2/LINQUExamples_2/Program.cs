@@ -198,13 +198,17 @@ namespace LINQUExamples_2
             Console.ReadLine();
         }*/
 
-  ////First, FirstOrDefault//////
+            ////Singe, SingleOrDefault operators//////
+            var emp = employeeList.SingleOrDefault(e => e.Id == 11);
 
-            List<int> integerList = new List<int> { 3, 13, 23, 17, 27, 89 };
-
-            int result = integerList.FirstOrDefault(i => i % 2 == 0);
-
-            Console.WriteLine(result);
+            if(emp != null)
+            {
+                Console.WriteLine($"{emp.Id,-5} {emp.FirstName,-10} {emp.LastName,-10}");
+            }
+            else
+            {
+                Console.WriteLine("This employee does not exist within the collection");
+            }
 
             Console.ReadLine();
 
